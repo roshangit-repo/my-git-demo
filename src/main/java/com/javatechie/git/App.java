@@ -6,10 +6,10 @@ package com.javatechie.git;
  */
 public class App 
 {
-	public void addNumbers(int sum) {
-		System.out.println("Sum"+sum);
+	public void addNumbers(int NUMBER_VALUE) {
+		System.out.println("Sum"+NUMBER_VALUE);
 		
-		  if(sum==10) { 
+		  if(NUMBER_VALUE==10) { 
 			  System.out.println("sum is "+10); }
 		 
 	}
